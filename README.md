@@ -1,7 +1,7 @@
 # Unity Project: Block Breaker
 
 This is just a normal and traditional block breaker game.
-But have you notice the abnormal blocks there?
+But have you noticed the abnormal blocks there?
 
 Created By:
 * [Hao Jiang](https://github.com/HaoJiang0201)
